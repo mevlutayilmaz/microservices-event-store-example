@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservices.Event.Store.Example", "Microservices.Event.Store.Example.csproj", "{285663AB-77AE-4CE1-91C2-B28CB8590269}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservices.Event.Store.Example", "Microservices.Event.Store.Example\Microservices.Event.Store.Example.csproj", "{8807F091-33A4-43A6-9F32-FDD16E50587C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{285663AB-77AE-4CE1-91C2-B28CB8590269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{285663AB-77AE-4CE1-91C2-B28CB8590269}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{285663AB-77AE-4CE1-91C2-B28CB8590269}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{285663AB-77AE-4CE1-91C2-B28CB8590269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8807F091-33A4-43A6-9F32-FDD16E50587C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8807F091-33A4-43A6-9F32-FDD16E50587C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8807F091-33A4-43A6-9F32-FDD16E50587C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8807F091-33A4-43A6-9F32-FDD16E50587C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
